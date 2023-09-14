@@ -1,0 +1,4 @@
+org.suki.design.mode.handler.dynamic.DirectInfo
+org.suki.design.mode.handler.dynamic.FactoryInfo
+org.suki.design.mode.handler.dynamic.FunctionalInfo
+org.suki.design.mode.handler.dynamic.ReflectInfo
